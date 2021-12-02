@@ -1,0 +1,13 @@
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.exe
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.deps.json
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.runtimeconfig.json
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.runtimeconfig.dev.json
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.dll
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\bin\Debug\netcoreapp3.1\Stack Exercise.pdb
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.csproj.AssemblyReference.cache
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.AssemblyInfoInputs.cache
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.AssemblyInfo.cs
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.dll
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.pdb
+C:\Users\Yassa\Documents\c# Basic\Stack Exercise\Stack Exercise\obj\Debug\netcoreapp3.1\Stack Exercise.genruntimeconfig.cache
